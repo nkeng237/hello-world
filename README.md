@@ -1,2 +1,3 @@
 # hello-world
-Ideas
+
+First project, ideas maybe?
